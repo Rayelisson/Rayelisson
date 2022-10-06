@@ -7,7 +7,6 @@
   <div>
       <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rayelisson&theme=dark&show_icons=true" />
       <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayelisson&theme=dark&layout=compact" />
-      <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   </div>
  <div style="display: inline-block"><br>
      <img align="center" alt="Ray-js" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -34,7 +33,7 @@
 **Rayelisson/Rayelisson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="200" />
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
