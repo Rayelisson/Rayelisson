@@ -13,8 +13,7 @@
      <img align="center" alt="Ray-Ts" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
      <img align="center" alt="Ray-React" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
      <img align="center" alt="Ray-veu" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-     <img align="center" alt="Ray-ag" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-     <img align="center" alt="Ray-html" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="Ray-html" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
      <img align="center" alt="Ray-css" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
      <img align="center" alt="Ray-py" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
      <img align="center" alt="Ray-git" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
