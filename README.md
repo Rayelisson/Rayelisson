@@ -19,6 +19,8 @@
      <img align="center" alt="Ray-git" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
      <img align="center" alt="Ray-excel" height="40"  width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.svg"/>
       <img align="center" alt="Ray-mat" height="40"  width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"/>
+      <img align="center" alt="Ray-sab" height="30"  width="40" src="https://ebaconline.com.br/images/tild3333-3964-4135-b535-363232366236__92159303-30d41100-ed.png"/>
+   
    
   </div>
     
