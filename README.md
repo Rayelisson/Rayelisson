@@ -17,7 +17,7 @@
      <img align="center" alt="Ray-css" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
      <img align="center" alt="Ray-py" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
      <img align="center" alt="Ray-git" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-     <img align="center" alt="Ray-excel" height="30"  width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
+     <img align="center" alt="Ray-excel" height="30"  width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.svg"/>
   </div>
     
    ##
