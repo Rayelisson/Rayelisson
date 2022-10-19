@@ -20,10 +20,8 @@
      <img align="center" alt="Ray-py" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
      <img align="center" alt="Ray-git" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
      <img align="center" alt="Ray-post" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-     <img align="center" alt="Ray-docker" height="80"  width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-          
-   
-          
+     <img align="center" alt="Ray-post" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+     <img align="center" alt="Ray-docker" height="80"  width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />   
   </div>
     
    ##
