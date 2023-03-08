@@ -31,19 +31,13 @@ me.say_hi()
 ```
 ```javascript
 const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node", "Express"],
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        devOps: ["AWS", "Docker ", "Git","Github", "Cloud" ,"Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        tool: ["Jira", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
@@ -105,7 +99,7 @@ const anmol = {
         
 
    
-   
+   <!--
    
    ## **DevOps:** 
    <div style="display: inline-block">
@@ -114,7 +108,7 @@ const anmol = {
    <img align="center" alt="Ray-docker" height="80"  width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
    <img align="center" alt="Ray-sab" height="40"  width="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
    <img align="center" alt="Ray-git" height="45"  width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  
+  -->
 
 
 
