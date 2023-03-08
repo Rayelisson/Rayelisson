@@ -39,9 +39,8 @@ const anmol = {
         databases: ["mongo", "PostgreSQL", "sqlite"],
         tool: ["Jira", "Trello", "Figma", "Postman", "Tableau", "Power BI", "Look Studio", "Jupyter"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: [ "Aplicativos Web progressivos", "Análise de dados de Negocios"],
+    currentFocus: "Ser um Profissional Full Stack"
 };
 ```
 
