@@ -36,8 +36,8 @@ const anmol = {
             js: ["Node", "Express"],
         },
         devOps: ["AWS", "Docker ", "Git","Github", "Cloud" ,"Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        tool: ["Jira", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["mongo", "PostgreSQL", "sqlite"],
+        tool: ["Jira", "Trello", "Figma", "Postman", "Tableau", "Power BI", "Look Studio", "Jupyter"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
@@ -58,8 +58,6 @@ const anmol = {
     <img align="center" alt="Ray-rails" height="30"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg?short_path=a1ca509" />
     <img align="center" alt="Ray-html" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
      <img align="center" alt="Ray-css" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-     <img align="center" alt="Ray-post" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-     <img align="center" alt="Ray-mgdb" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
      <img align="center" alt="Ray-pandas" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
       <img align="center" alt="Ray-mat" height="40"  width="40"  src="https://github.com/Rayelisson/meuperfil2/blob/main/matplotlib-logo-7.png" />
      <img align="center" alt="Ray-sab" height="40"  width="40" src="https://ebaconline.com.br/images/tild3333-3964-4135-b535-363232366236__92159303-30d41100-ed.png"/>
@@ -68,50 +66,7 @@ const anmol = {
      
   
  
-    
    
-   
-   ## **Ferramentas de Desenvolvimento:**  
-   <div style="display: inline-block"><br/>
-   <img align="center" alt="Ray-sab" height="40"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"/>
-   
-   <img align="center" alt="Ray-trello" height="40"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>
-   <img align="center" alt="Ray-figma" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-   <img align="center" alt="Ray-figma" height="35"  width="42" src="https://github.com/Rayelisson/meuperfil2/blob/main/postman-icon.png" />
-     
-   <img align="center" alt="Ray-js" height="40"  width="41" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
-   
-   <img align="center" alt="Ray-git" height="38"  width="30" src="https://github.com/Rayelisson/meuperfil2/blob/main/powerbi.png"/>
-   
-   <img align="center" alt="Ray-git" height="40"  width="40" src="https://github.com/Rayelisson/meuperfil2/blob/main/look%20studio.png"/>
-   
-   <img align="center" alt="Ray-git" height="40"  width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-   
-   
-   <img align="center" alt="Ray-git" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- 
-  
-   <img align="center" alt="Ray-git" height="40"  width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-   
-   
-   
-          
-        
-
-   
-   <!--
-   
-   ## **DevOps:** 
-   <div style="display: inline-block">
-   <img align="center" alt="Ray-git" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-   <img align="center" alt="Ray-git" height="35"  width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   <img align="center" alt="Ray-docker" height="80"  width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
-   <img align="center" alt="Ray-sab" height="40"  width="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-   <img align="center" alt="Ray-git" height="45"  width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  -->
-
-
-
 ## **GitHub Estatísticas**
     
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayelisson&theme=dark&layout=compact" />
@@ -136,6 +91,8 @@ const anmol = {
 [instagram]: https://www.instagram.com/rayelisson/?theme=dark
 [linkedin]: https://www.linkedin.com/in/rayelisson-cec%C3%ADlio-74085162/
 <br>
+     <img align="center" alt="Ray-post" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+     <img align="center" alt="Ray-mgdb" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
 #### Rede Sociais!
 
