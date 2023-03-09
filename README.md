@@ -8,7 +8,7 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img align="right" width="500" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 ```python
 #!/usr/bin/python
@@ -19,7 +19,7 @@ class DevAnalista:
 
     def __init__(self):
         self.name = "Rayelisson Lima"
-        self.role = "Dev Analista de Dados"
+        self.role = "Dev e Analista de Dados"
         self.language = ["Python", "Ruby","Go"]
 
     def say_hi(self):
@@ -29,6 +29,8 @@ class DevAnalista:
 me = DevAnalista()
 me.say_hi()
 ```
+
+
 ```javascript
 const anmol = {
     technologies: {
@@ -39,7 +41,7 @@ const anmol = {
         databases: ["mongo", "PostgreSQL", "sqlite"],
         tool: ["Jira", "Trello", "Figma", "Postman", "Tableau", "Power BI", "Look Studio", "Jupyter"]
     },
-    architecture: [ "Aplicativos Web progressivos", "Análise de dados de Negocios"],
+    architecture: [ "Aplicação Front-end e Back-end", ,"Análise de dados de Negocios"],
     currentFocus: "Ser um Profissional Full Stack"
 };
 ```
@@ -61,6 +63,8 @@ const anmol = {
       <img align="center" alt="Ray-mat" height="40"  width="40"  src="https://github.com/Rayelisson/meuperfil2/blob/main/matplotlib-logo-7.png" />
      <img align="center" alt="Ray-sab" height="40"  width="40" src="https://ebaconline.com.br/images/tild3333-3964-4135-b535-363232366236__92159303-30d41100-ed.png"/>
      <img align="center" alt="Ray-graph" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+     <img align="center" alt="Ray-graph" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+          
      
      
   
