@@ -39,7 +39,7 @@ const anmol = {
         },
         devOps: ["AWS", "Docker ", "Git","Github", "Cloud" ,"Nginx"],
         databases: ["mongo", "PostgreSQL", "sqlite"],
-        tool: ["Jira", "Trello", "Figma", "Postman", "Tableau", "Power BI", "Look Studio", "Jupyter"]
+        tool: ["Jira", "Trello", "Figma", "Postman", "Tableau", "Power BI","Excel", "Look Studio", "Jupyter"]
     },
     architecture: [ "Aplicação Front-end e Back-end", ,"Análise de dados de Negocios"],
     currentFocus: "Ser um Profissional Full Stack"
