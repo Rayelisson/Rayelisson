@@ -29,7 +29,7 @@ class DevAnalista:
 me = DevAnalista()
 me.say_hi()
 ```
-
+****  
 
 ```javascript
 const anmol = {
@@ -37,7 +37,7 @@ const anmol = {
         backEnd: {
             js: ["Node", "Express"],
         },
-        devOps: ["AWS", "Docker ", "Git","Github", "Cloud" ,"Nginx"],
+        devOps: ["AWS", "Docker ", "Git","Github", "Cloud" ,"Nginx", "Azure"],
         databases: ["mongo", "PostgreSQL", "sqlite"],
         tool: ["Jira", "Trello", "Figma", "Postman", "Tableau", "Power BI","Excel", "Look Studio", "Jupyter"]
     },
