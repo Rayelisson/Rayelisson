@@ -37,7 +37,7 @@ const anmol = {
         backEnd: {
             js: ["Node", "Express"],
         },
-        devOps: ["AWS", "Docker ", "Git","Github", "Cloud" ,"Nginx", "Azure"],
+        devOps: ["AWS", "Docker ", "Git","Github", "Cloud"],
         databases: ["mongo", "PostgreSQL", "sqlite"],
         tool: ["Jira", "Trello", "Figma", "Postman", "Tableau", "Power BI","Excel", "Look Studio", "Jupyter"]
     },
