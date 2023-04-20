@@ -55,8 +55,8 @@ const anmol = {
     <img align="center" alt="Ray-redux" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
      <img align="center" alt="Ray-jest" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
     <img align="center" alt="Ray-angl" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-    <img align="center" alt="Ray-Karma" height="30"  width="40"  src="https://github.com/Rayelisson/Rayelisson/blob/main/Karma-Logo.png" />
-    <img align="center" alt="Ray-jasm" height="30"  width="40"  src="https://github.com/Rayelisson/Rayelisson/blob/main/Logo_jasmine.svg.png" />
+    <img align="center" alt="Ray-angl" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" />
+    <img align="center" alt="Ray-Karma" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" />
     <img align="center" alt="Ray-rs" height="30"  width="40"  src="https://github.com/Rayelisson/Rayelisson/blob/main/Rx_Logo.png" />
     <img align="center" alt="Ray-dj" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <img align="center" alt="Ray-fash" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
