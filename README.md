@@ -38,7 +38,7 @@ const anmol = {
             js: ["Node", "Express"],
         },
         devOps: ["AWS", "Docker ", "Git","Github", "Cloud"],
-        databases: ["mongo", "PostgreSQL", "sqlite"],
+        databases: ["mongo", "PostgreSQL", "sqlite","Sequelize"],
         tool: ["Jira", "Trello", "Figma", "Postman", "Tableau", "Power BI","Excel", "Look Studio", "Jupyter"]
     },
     architecture: [ "Aplicação Front-end e Back-end", ,"Análise de dados de Negocios"],
@@ -70,6 +70,7 @@ const anmol = {
      <img align="center" alt="Ray-graph" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
      <img align="center" alt="Ray-graph" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
      <img align="center" alt="Ray-deno" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+     <img align="center" alt="Ray-deno" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" />
           
      
      
