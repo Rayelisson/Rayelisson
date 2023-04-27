@@ -51,7 +51,6 @@ const anmol = {
  <div style="display: inline-block"><br>
      <img align="center" alt="Ray-js" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
      <img align="center" alt="Ray-Ts" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-     <img align="center" alt="Ray-kot" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
      <img align="center" alt="Ray-java" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
      <img align="center" alt="Ray-java" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
      <img  align="center" alt="Ray-react" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
