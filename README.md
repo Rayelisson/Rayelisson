@@ -35,11 +35,13 @@ me.say_hi()
 const anmol = {
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            framework: ["Node", "Express", "Spring"],
+            databases: ["mongo", "PostgreSQL", "sqlite","Sequelize"]
         },
-        devOps: ["AWS", "Docker ", "Git","Github", "Cloud"],
-        databases: ["mongo", "PostgreSQL", "sqlite","Sequelize"],
-        tool: ["Jira", "Trello", "Figma", "Postman", "Tableau", "Power BI","Excel", "Look Studio", "Jupyter"]
+        test: {
+            ["Selenium", "Cypress", "Jest"]
+        },
+    devOps:["AWS", "Docker ", "Git","Github", "Cloud"],  
     },
     architecture: [ "Aplicação Front-end e Back-end", ,"Análise de dados de Negocios"],
     currentFocus: "Ser um Profissional Full Stack"
@@ -52,9 +54,9 @@ const anmol = {
      <img align="center" alt="Ray-js" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
      <img align="center" alt="Ray-Ts" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
      <img align="center" alt="Ray-java" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+     <img align="center" alt="Ray-dart" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
      <img  align="center" alt="Ray-react" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Ray-redux" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-     <img align="center" alt="Ray-jest" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
     <img align="center" alt="Ray-angl" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     <img align="center" alt="Ray-dj" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <img align="center" alt="Ray-fash" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
@@ -68,6 +70,8 @@ const anmol = {
      <img align="center" alt="Ray-graph" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
      <img align="center" alt="Ray-graph" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
      <img align="center" alt="Ray-deno" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" />
+     <img align="center" alt="Ray-kafka" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+     
           
      
      
