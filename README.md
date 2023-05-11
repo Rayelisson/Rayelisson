@@ -53,8 +53,8 @@ const anmol = {
  <div style="display: inline-block"><br>
      <img align="center" alt="Ray-js" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
      <img align="center" alt="Ray-Ts" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-     <img align="center" alt="Ray-java" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
      <img align="center" alt="Ray-java" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+     <img align="center" alt="Ray-dart" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
      <img  align="center" alt="Ray-react" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Ray-redux" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
     <img align="center" alt="Ray-angl" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
@@ -71,7 +71,9 @@ const anmol = {
      <img align="center" alt="Ray-graph" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
      <img align="center" alt="Ray-deno" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" />
      <img align="center" alt="Ray-kafka" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-      <img align="center" alt="Ray-deno" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+     <img align="center" alt="Ray-deno" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+     <img align="center" alt="Ray-flu" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+     
      
           
      
