@@ -19,8 +19,8 @@ class DevAnalista:
 
     def __init__(self):
         self.name = "Rayelisson Lima"
-        self.role = "Dev e Analista de Dados"
-        self.language = ["Python", "Ruby","Go"]
+        self.role = "Dev  Full Stack"
+        self.language = ["Python", "Java","Go"]
 
     def say_hi(self):
          print("Obrigado por passar por aqui.")
@@ -53,15 +53,13 @@ const anmol = {
  <div style="display: inline-block"><br>
      <img align="center" alt="Ray-js" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
      <img align="center" alt="Ray-Ts" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-     <img align="center" alt="Ray-java" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
      <img align="center" alt="Ray-dart" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
      <img  align="center" alt="Ray-react" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Ray-redux" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-    <img align="center" alt="Ray-angl" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     <img align="center" alt="Ray-dj" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <img align="center" alt="Ray-fash" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
     <img align="center" alt="Ray-flask" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-    <img align="center" alt="Ray-rails" height="30"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg?short_path=a1ca509" />
+    <img align="center" alt="Ray-flu" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img align="center" alt="Ray-html" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
      <img align="center" alt="Ray-css" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
      <img align="center" alt="Ray-pandas" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
@@ -71,8 +69,7 @@ const anmol = {
      <img align="center" alt="Ray-graph" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
      <img align="center" alt="Ray-deno" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" />
      <img align="center" alt="Ray-kafka" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-     <img align="center" alt="Ray-deno" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-     <img align="center" alt="Ray-flu" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+     
      
      
           
