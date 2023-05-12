@@ -41,7 +41,7 @@ const anmol = {
         test: {
             ["Selenium", "Cypress", "Jest"]
         },
-    devOps:["AWS", "Docker ", "Git","Github", "Cloud"],  
+    devOps:["AWS", "Docker ", "Git","Github"],  
     },
     architecture: [ "Aplicação Front-end e Back-end", ,"Análise de dados de Negocios"],
     currentFocus: "Ser um Profissional Full Stack"
@@ -67,7 +67,6 @@ const anmol = {
      <img align="center" alt="Ray-sab" height="40"  width="40" src="https://ebaconline.com.br/images/tild3333-3964-4135-b535-363232366236__92159303-30d41100-ed.png"/>
      <img align="center" alt="Ray-graph" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
      <img align="center" alt="Ray-graph" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-     <img align="center" alt="Ray-deno" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" />
      <img align="center" alt="Ray-kafka" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
      
      
