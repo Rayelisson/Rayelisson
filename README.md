@@ -13,14 +13,13 @@
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-<?python
 
 class DevAnalista:
 
     def __init__(self):
         self.name = "Rayelisson Lima"
         self.role = "Dev  Full Stack"
-        self.language = ["Python", "Java","Go"]
+        self.language = ["Python", "Java","Go","Ruby"]
 
     def say_hi(self):
          print("Obrigado por passar por aqui.")
@@ -61,6 +60,7 @@ const anmol = {
     <img align="center" alt="Ray-fash" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
     <img align="center" alt="Ray-flask" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
     <img align="center" alt="Ray-flu" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+   <img align="center" alt="Ray-rails" height="30"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg?short_path=a1ca509" />
     <img align="center" alt="Ray-html" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
      <img align="center" alt="Ray-css" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
      <img align="center" alt="Ray-pandas" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
