@@ -8,7 +8,7 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img align="right" width="380" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 ```python
 #!/usr/bin/python
@@ -58,7 +58,6 @@ const anmol = {
     <img align="center" alt="Ray-angl" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     <img align="center" alt="Ray-dj" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <img align="center" alt="Ray-fash" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-    <img align="center" alt="Ray-flask" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
     <img align="center" alt="Ray-flu" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
    <img align="center" alt="Ray-rails" height="30"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg?short_path=a1ca509" />
     <img align="center" alt="Ray-html" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
