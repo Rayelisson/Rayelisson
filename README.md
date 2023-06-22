@@ -19,7 +19,7 @@ class DevAnalista:
     def __init__(self):
         self.name = "Rayelisson Lima"
         self.role = "Dev  Full Stack"
-        self.language = ["Python", "Java","Ruby"]
+        self.language = ["Python", "Java"]
 
     def say_hi(self):
          print("Obrigado por passar por aqui.")
@@ -35,10 +35,7 @@ const anmol = {
     technologies: {
         backEnd: {
             framework: ["Node", "Express", "Spring"],
-            databases: ["mongo", "PostgreSQL", "sqlite","Sequelize"]
-        },
-        test: {
-            ["Selenium", "Cypress", "Jest"]
+            databases: ["mongo", "PostgreSQL", "sqlite",]
         },
     devOps:["AWS", "Docker ", "Git","Github"],  
     },
@@ -65,7 +62,7 @@ const anmol = {
      <img align="center" alt="Ray-sab" height="40"  width="40" src="https://ebaconline.com.br/images/tild3333-3964-4135-b535-363232366236__92159303-30d41100-ed.png"/>
      <img align="center" alt="Ray-graph" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
      <img align="center" alt="Ray-graph" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-     <img align="center" alt="Ray-kafka" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+    
      
      
      
