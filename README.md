@@ -35,11 +35,11 @@ const anmol = {
     technologies: {
         backEnd: {
             framework: ["Node", "Express", "Spring"],
-            databases: ["mongo", "PostgreSQL", "sqlite",]
+            databases: ["mongo", "PostgreSQL", "sqlite"]
         },
     devOps:["AWS", "Docker ", "Git","Github"],  
     },
-    architecture: [ "Aplicação Front-end e Back-end", ,"Análise de dados de Negocios"],
+    architecture: [ "Aplicação Front-end e Back-end","Análise de dados de Negocios"],
     currentFocus: "Ser um Profissional Full Stack"
 };
 ```
