@@ -38,7 +38,13 @@ const anmol = {
             databases: ["mongo", "PostgreSQL", "sqlite"]
         },
     devOps:["AWS", "Docker ", "Git","Github"],  
+       },
     },
+   dataScience:["Power Bi", "Tableau", "Excel" , "Matplotlib","Pandas","Seaborn"],  
+    },
+      },
+    metricaAgil:["Scrum", "Kanban"],  
+     },
     architecture: [ "Aplicação Front-end e Back-end","Análise de dados de Negocios"],
     currentFocus: "Ser um Profissional Full Stack"
 };
@@ -57,9 +63,6 @@ const anmol = {
    <img align="center" alt="Ray-rails" height="30"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg?short_path=a1ca509" />
     <img align="center" alt="Ray-html" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
      <img align="center" alt="Ray-css" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-     <img align="center" alt="Ray-pandas" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-      <img align="center" alt="Ray-mat" height="40"  width="40"  src="https://github.com/Rayelisson/meuperfil2/blob/main/matplotlib-logo-7.png" />
-     <img align="center" alt="Ray-sab" height="40"  width="40" src="https://ebaconline.com.br/images/tild3333-3964-4135-b535-363232366236__92159303-30d41100-ed.png"/>
      <img align="center" alt="Ray-graph" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
      <img align="center" alt="Ray-graph" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
     
