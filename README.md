@@ -34,7 +34,7 @@ me.say_hi()
 const anmol = {
     technologies: {
         backEnd: {
-            framework: ["Node", "Express", "Spring"],
+            framework: ["Node", "Express", "Spring_Boot"],
             databases: ["mongo", "PostgreSQL", "sqlite"]
         },
     devOps:["AWS", "Docker ", "Git","Github"],  
