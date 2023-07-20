@@ -19,7 +19,7 @@ class DevAnalista:
     def __init__(self):
         self.name = "Rayelisson Lima"
         self.role = "Dev  Full Stack"
-        self.language = ["Python", "Java"]
+        self.language = ["Python", "JavaScript"]
 
     def say_hi(self):
          print("Obrigado por passar por aqui.")
