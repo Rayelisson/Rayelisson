@@ -34,14 +34,14 @@ me.say_hi()
 const anmol = {
     technologies: {
         backEnd: {
-            framework: ["Node", "Express", "Spring_Boot"],
+            framework: ["Node", "Express"],
             databases: ["mongo", "PostgreSQL", "sqlite"]
         },
     devOps:["AWS", "Docker ", "Git","Github"],  
        },
     },
     },
-    dataScience:["Power Bi", "Tableau", "Excel" , "Matplotlib","Pandas","Seaborn"],  
+    dataScience:["Power Bi","Excel" , "Matplotlib","Pandas","Seaborn"],  
     },
       },
     metricaAgil:["Scrum", "Kanban"],  
