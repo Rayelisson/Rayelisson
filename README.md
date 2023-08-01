@@ -67,7 +67,6 @@ const anmol = {
     <img align="center" alt="Ray-angl" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     <img align="center" alt="Ray-dj" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <img align="center" alt="Ray-fash" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-   <img align="center" alt="Ray-rails" height="30"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg?short_path=a1ca509" />
      <img align="center" alt="Ray-graph" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
      <img align="center" alt="Ray-graph" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
     
