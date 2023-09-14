@@ -41,17 +41,14 @@ const anmol = {
        },
     },
     },
-    dataScience:["Power Bi","Excel" , "Matplotlib","Pandas","Seaborn"],  
+    dataScience:["Power Bi","Excel"],  
     },
       },
     metricaAgil:["Scrum", "Kanban"],  
      },
     },
    tool:["Jira", "Figma"],  
-    },
-    architecture: [ "Aplicação Front-end e Back-end","Análise de dados de Negocios"],
-    currentFocus: "Ser um Profissional Full Stack"
-};
+  };
 ```
 
 
