@@ -4,9 +4,9 @@
 
 
 
-🌱 Estudante de Ciência da computação  e Adiministração
+🌱 Computer Science and Administration Student
 
-## 💻 Mais sobre mim
+## 💻 More about me 
 
 <img align="right" width="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
@@ -14,7 +14,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class DevAnalista:
+class DevAnalyst:
 
     def __init__(self):
         self.name = "Rayelisson Lima"
@@ -22,10 +22,10 @@ class DevAnalista:
         self.language = ["Python", "JavaScript"]
 
     def say_hi(self):
-         print("Obrigado por passar por aqui.")
+         print("Thanks for stopping by.")
 
 
-me = DevAnalista()
+me = DevAnalyst()
 me.say_hi()
 ```
 ****  
@@ -34,7 +34,7 @@ me.say_hi()
 const anmol = {
     technologies: {
         backEnd: {
-            framework: ["Node", "Spring", "Express"],
+            framework: ["Node", "Express"],
             databases: ["mongo", "PostgreSQL", "sqlite"]
         },
     devOps:["AWS", "Docker ", "Git","Github"],  
@@ -44,7 +44,7 @@ const anmol = {
     dataScience:["Power Bi","Excel"],  
     },
       },
-    metricaAgil:["Scrum", "Kanban"],  
+    metricsAgil:["Scrum", "Kanban"],  
      },
     },
    tool:["Jira", "Figma"],  
@@ -58,7 +58,6 @@ const anmol = {
      <img align="center" alt="Ray-Ts" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
      <img align="center" alt="Ray-html" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="Ray-css" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-      <img align="center" alt="Ray-java" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
      <img align="center" alt="Ray-jest" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
      <img  align="center" alt="Ray-react" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Ray-redux" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
@@ -80,7 +79,7 @@ const anmol = {
   
  
    
-## **GitHub Estatísticas**
+## **GitHub Statistics**
     
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayelisson&theme=dark&layout=compact" />
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rayelisson&theme=dark&show_icons=true" />
@@ -88,7 +87,7 @@ const anmol = {
  <br>
  <br/>
 
-#### Rede Sociais!
+#### Social networks!
 
 <div  style="display: inline-block"> 
  
@@ -103,6 +102,7 @@ const anmol = {
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/rayelisson/?theme=dark
 [linkedin]: https://www.linkedin.com/in/rayelisson-cec%C3%ADlio-74085162/
+
 <br>
      <img align="center" alt="Ray-post" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
      <img align="center" alt="Ray-mgdb" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -111,6 +111,7 @@ const anmol = {
 
 
 🐦 [twitter][twitter] **|** 
+ <img align="center" alt="Ray-java" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 -->
