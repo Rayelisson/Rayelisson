@@ -58,7 +58,7 @@ const anmol = {
     technologies: {
          frontEnd: {
                 base: ["HTML5", "CSS3"],         
-                framework: ["React", "Redux", "Tailwindcss"],
+                framework: ["React", "Redux","Angular", "Tailwindcss"],
            },
         backEnd: {          
                framework: ["Node", "Express", "Nestjs", "Graphql","Django","Rails"],
