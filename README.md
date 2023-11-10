@@ -3,7 +3,7 @@
 
 🔭 Estou estudando para me tornar um Desenvolvedor Fullstack.
 
-🌱 Atualmente estou aprendendo Python e JavaScript e Rails.
+🌱 Atualmente estou aprendendo Python e JavaScript.
 
 📫 Como me contatar: rayelissonl@gmail.com.
 
