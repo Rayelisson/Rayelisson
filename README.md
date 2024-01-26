@@ -24,6 +24,9 @@
       <img align="center" alt="Ray-graph" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
      <img align="center" alt="Ray-tenso" height="40"  width="40" src="https://github.com/Rayelisson/Rayelisson/blob/main/tensorflow.svg" />
      <img align="center" alt="Ray-pytorch" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+    <img align="center" alt="Ray-scikit" height="40"  width="40" src="https://github.com/Rayelisson/Rayelisson/blob/main/1200px-Scikit_learn_logo_small.png" />
+    <img align="center" alt="Ray-pandas" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+     
           
       
 ## 💻 More about me 
@@ -66,6 +69,9 @@ const anmol = {
               },
        devOps: {
            ["AWS", "Docker ", "Git","Github", "Terraform"],  
+          },
+     dados: {
+               ["Power-Bi","Scikit-learn","Pandas","Tensorflow","Pytorch","Numpy"]
           },
        metricsAgil: {
              ["Scrum", "Kanban"],
