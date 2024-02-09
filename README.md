@@ -19,8 +19,8 @@
     <img align="center" alt="Ray-redux" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
     <img align="center" alt="Ray-dj" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <img align="center" alt="Ray-fash" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-     <img align="center" alt="Ray-nest" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-      <img align="center" alt="Ray-graph" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+     <img align="center" alt="Ray-nest" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+      <img align="center" alt="Ray-tail" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
      <img align="center" alt="Ray-tenso" height="40"  width="40" src="https://github.com/Rayelisson/Rayelisson/blob/main/tensorflow.svg" />
      <img align="center" alt="Ray-pytorch" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
     <img align="center" alt="Ray-scikit" height="40"  width="40" src="https://github.com/Rayelisson/Rayelisson/blob/main/1200px-Scikit_learn_logo_small.png" />
