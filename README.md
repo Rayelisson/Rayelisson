@@ -7,7 +7,7 @@
 
 📫 Como me contatar: rayelissonl@gmail.com.
 
-🤝 Estou procurando ajuda para aprender sobre Sites Dinâmicos.
+🤝 Estou procurando ajuda para aprender sobre Machine Learning e Back-End.
 
  <div style="display: inline-block"><br>
      <img align="center" alt="Ray-js" height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
