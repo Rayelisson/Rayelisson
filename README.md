@@ -63,11 +63,11 @@ const anmol = {
                 framework: ["React", "Redux", "Tailwindcss"],
            },
         backEnd: {          
-               framework: ["Node", "Express", "Nestjs","Django"],
+               framework: ["Node", "Express", "Ruby on Rails","Django", "Flask" ],
                databases: ["Mongo", "PostgreSQL"]
               },
        devOps: {
-           ["AWS", "Docker ", "Git","Github", "Terraform"],  
+           ["AWS", "Docker ", "Git","Github"],  
           },
      dados: {
                ["Power-Bi","Scikit-learn","Pandas","Tensorflow","Pytorch","Numpy"]
