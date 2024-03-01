@@ -24,7 +24,7 @@
       <img align="center" alt="Ray-tail" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
      <img align="center" alt="Ray-tenso" height="40"  width="40" src="https://github.com/Rayelisson/Rayelisson/blob/main/tensorflow.svg" />
      <img align="center" alt="Ray-pytorch" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-    <img align="center" alt="Ray-scikit" height="40"  width="40" src="https://github.com/Rayelisson/Rayelisson/blob/main/1200px-Scikit_learn_logo_small.png" />
+    <img align="center" alt="Ray-scikit" height="70"  width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
     <img align="center" alt="Ray-pandas" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
      
           
