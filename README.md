@@ -3,7 +3,7 @@
 
 🔭 Estou estudando para me tornar um Desenvolvedor Fullstack.
 
-🌱 Atualmente estou aprendendo Python e Ruby.
+🌱 Atualmente estou aprendendo Python e JavaScript.
 
 📫 Como me contatar: rayelissonl@gmail.com.
 
@@ -64,7 +64,7 @@ const anmol = {
                 framework: ["React", "Redux", "Tailwindcss"],
            },
         backEnd: {          
-               framework: ["Node", "Express", "Ruby on Rails","Django", "Flask" ],
+               framework: ["Node", "Express","Django", "Flask" ],
                databases: ["Mongo", "PostgreSQL"]
               },
        devOps: {
