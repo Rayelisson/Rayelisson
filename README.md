@@ -54,7 +54,7 @@ me.say_hi()
 ****  
 
 
-## O que Estudado:
+## What I have already studied or am studying:
 
 ```javascript
 const anmol = {
