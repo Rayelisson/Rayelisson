@@ -20,7 +20,6 @@
     <img align="center" alt="Ray-dj" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <img align="center" alt="Ray-fash" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
      <img align="center" alt="Ray-nest" height="40"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-    <img align="center" alt="Ray-rails" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
       <img align="center" alt="Ray-tail" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
      <img align="center" alt="Ray-tenso" height="40"  width="40" src="https://github.com/Rayelisson/Rayelisson/blob/main/tensorflow.svg" />
      <img align="center" alt="Ray-pytorch" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
