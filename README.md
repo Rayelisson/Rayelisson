@@ -1,7 +1,7 @@
    
 # Hello there 👋
 
-🔭 Estou estudando para me tornar um Desenvolvedor Fullstack.
+🔭 Estou estudando para me tornar um Desenvolvedor Backend com conhecimento de Data Science.
 
 🌱 Atualmente estou aprendendo Python e JavaScript.
 
