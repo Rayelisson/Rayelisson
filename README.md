@@ -1,133 +1,197 @@
-# 👨🏻‍💻 [Rayelisson Lima]() [@rayelisson]()
-🤝 Estou procurando ajuda para aprender sobre Back-End.
+# 👨🏻‍💻 Rayelisson Lima
+### ⚙️ Engenharia Mecânica | 📊 Administração e Operações | 🤖 Inteligência Artificial | 💻 Tecnologia
 
-[![GitHub followers](https://img.shields.io/github/followers/Rayelisson?label=Follow&style=social)](https://github.com/Rayelisson/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-rayelissonl@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@anuragsingh.dev)](mailto:rayelissonl@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rayelisson/)](https://www.linkedin.com/in/rayelisson/)
+<p align="left">
+  <a href="https://github.com/Rayelisson">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rayelisson-lima-74085162/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rayelissonl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
+---
 
+## 👋 Sobre mim
 
-```elixir
+Sou Engenheiro Mecânico com atuação nas áreas administrativa, operacional, compras e financeira, no segmento de elevadores, escadas rolantes e esteiras rolantes.
 
-defmodule DevAnalyst do
-  defstruct name: "Rayelisson Lima",
-            role: "Dev. Backend",
-            languages: ["Python","Go","Node","Elixir"],
-            frameworks: %{
-              "Go" => ["Gin"],
-              "Python" => ["Django", "FastAPI"],
-              "Node" => ["Nest.js","Express"]
-              "Elixir" => ["Phoenix"],
-            },
-            databases: ["PostgreSQL", "MongoDB"],
-            dev_ops_tools: ["AWS", "Docker", "Git", "GitHub", "Kubernetes"],
-            messaging_queues: ["Kafka", "RabbitMQ"],
-            methodologies: ["Scrum", "Kanban"]
+Minha atuação envolve a integração entre engenharia, gestão empresarial e tecnologia, com foco na organização de processos, acompanhamento de atividades, controle de informações, análise de custos e melhoria da eficiência operacional.
 
-  def introduce(%__MODULE__{} = dev_analyst) do
-    IO.puts("Hi, I'm #{dev_analyst.name}, a #{dev_analyst.role}.")
-    IO.puts("Here's what I specialize in:")
-    IO.puts("Languages: #{Enum.join(dev_analyst.languages, ", ")}")
+Utilizo ferramentas digitais e inteligência artificial para apoiar a elaboração de documentos técnicos, propostas comerciais, relatórios, organização de rotinas e desenvolvimento de soluções para os desafios do dia a dia profissional.
 
-    IO.puts("Frameworks:")
-    Enum.each(dev_analyst.frameworks, fn {lang, fwks} ->
-      IO.puts("  #{lang}: #{Enum.join(fwks, ", ")}")
-    end)
+Tenho interesse em automação de processos, análise de dados, gestão de manutenção e desenvolvimento de sistemas, buscando conectar conhecimento técnico, visão administrativa e tecnologia.
 
-    IO.puts("Databases: #{Enum.join(dev_analyst.databases, ", ")}")
-    IO.puts("DevOps Tools: #{Enum.join(dev_analyst.dev_ops_tools, ", ")}")
-    IO.puts("Messaging Queues: #{Enum.join(dev_analyst.messaging_queues, ", ")}")
-    IO.puts("Methodologies: #{Enum.join(dev_analyst.methodologies, ", ")}")
-  end
-end
+## ⚙️ Engenharia Mecânica e Manutenção
 
-# Instanciar e exibir a introdução
-dev_analyst = %DevAnalyst{}
-DevAnalyst.introduce(dev_analyst)
+- 🛠️ Acompanhamento de serviços de manutenção preventiva e corretiva.
+- 📑 Elaboração e organização de relatórios e laudos técnicos.
+- 🔎 Abertura e acompanhamento de chamados técnicos.
+- 📋 Organização de registros, documentos e informações de manutenção.
+- 📈 Acompanhamento de indicadores de desempenho operacional.
+- 🏗️ Apoio à gestão de equipamentos e serviços técnicos.
+- 📊 Interesse em indicadores como MTBF, MTTR e disponibilidade operacional.
 
+## 📊 Administração e Operações
 
-```
+- 📌 Organização e acompanhamento de processos operacionais.
+- 📑 Elaboração e acompanhamento de propostas comerciais.
+- 📝 Organização de contratos de manutenção.
+- 🔄 Gestão de chamados, tarefas, prazos e pendências.
+- 🤝 Acompanhamento de fornecedores e prestadores de serviços.
+- 📚 Estruturação de procedimentos e documentação interna.
+- 📈 Organização de informações para acompanhamento gerencial.
 
-## 📚 Minha Trajetória de Aprendizado
-### 🧪 Desenvolvimento Backend
-| 🚀 **Projects** | 💻 **Technology** |
-| - | - |
-| [![api-rest-go-gin-ray](https://img.shields.io/static/v1?label=&message=api-rest-go-gin-ray&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Rayelisson/api-rest-go-gin-ray) | [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://nodejs.org/en/) [![Gin](https://img.shields.io/badge/Gin-000000?style=for-the-badge&logo=gin&logoColor=white)](https://gin-gonic.com/)[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.gnu.org/) [![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.gnu.org/) [![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ](https://www.gnu.org/) [![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=Grafana) ](https://www.gnu.org/) [![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) ](https://www.gnu.org/)|
-| [![service-desk-api-1](https://img.shields.io/static/v1?label=&message=service-desk-api-1&color=000605&logo=gitlab&logoColor=FFFFFF&labelColor=000605)](https://github.com/rayelissonl/service-desk-api-1) |[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.gnu.org/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/en/) [![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)](https://nodejs.org/en/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.gnu.org/) [![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.gnu.org/) [![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ](https://www.gnu.org/) [![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=Grafana) ](https://www.gnu.org/) [![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) ](https://www.gnu.org/) [![Kubernete](https://img.shields.io/badge/kubernetes-326CE5?&style=plastic&logo=kubernetes&logoColor=white) ](https://www.gnu.org/) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)|
-| [![webelixirpri](https://img.shields.io/static/v1?label=&message=webelixirpri&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/rayelissonl/webelixirpri)   | [![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://www.gnu.org/) [![Phoenix](https://img.shields.io/badge/Phoenix-FF6F00?style=for-the-badge&logo=elixir&logoColor=white)](https://www.phoenixframework.org/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.gnu.org/) [![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.gnu.org/) [![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ](https://www.gnu.org/) [![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=Grafana) ](https://www.gnu.org/)  [![rabbitmq](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white) ](https://www.gnu.org/) [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ](https://www.gnu.org/) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)|
-| [![full_stack_rails-react-redux_ray](https://img.shields.io/static/v1?label=&message=full_stack_rails-react-redux_ray&color=000605&logo=gitlab&logoColor=FFFFFF&labelColor=000605)](https://gitlab.com/rayelisson/projray_airbnb) | [![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://www.gnu.org/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.gnu.org/) [![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.gnu.org/) [![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ](https://www.gnu.org/) [![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=Grafana) ](https://www.gnu.org/)  [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ](https://www.gnu.org/)  [![Sidekiq](https://img.shields.io/badge/Sidekiq-000000?style=for-the-badge&logo=sidekiq&logoColor=white)](https://sidekiq.org/)|
-| [![fast_ray_ap](https://img.shields.io/static/v1?label=&message=fast_ray_ap&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)]()| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF)](https://fastapi.tiangolo.com/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.gnu.org/) [![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.gnu.org/) [![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ](https://www.gnu.org/) [![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=Grafana) ](https://www.gnu.org/) [![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) ](https://www.gnu.org/)|
-| [![bitgrit-personality-api](https://img.shields.io/static/v1?label=&message=bitgrit-personality-api&color=000605&logo=gitlab&logoColor=FFFFFF&labelColor=000605)]()| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/)[![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/)[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.gnu.org/) [![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.gnu.org/) [![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ](https://www.gnu.org/) [![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=Grafana) ](https://www.gnu.org/) [![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) ](https://www.gnu.org/)|
-| [![apiescola1](https://img.shields.io/static/v1?label=&message=apiescola1%20&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/todo-list-battle) |[![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/)[![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=FFFFFF)](https://www.djangoproject.com/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.gnu.org/) [![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.gnu.org/) [![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ](https://www.gnu.org/) [![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=Grafana) ](https://www.gnu.org/)  [![rabbitmq](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white) ](https://www.gnu.org/) |
+## 🛒 Compras e Gestão de Materiais
 
-<!--
-## 📚 Minha Trajetória de Aprendizado
-### 🧪 Desenvolvimento Backend
-| 💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| [![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://www.gnu.org/)| [![webryseg](https://img.shields.io/static/v1?label=&message=webryseg&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/rayelissonl/webryseg) [![banana_bankk](https://img.shields.io/static/v1?label=&message=banana_bankk&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-interactive-brokers) [![notion-habit-tracker](https://img.shields.io/static/v1?label=&message=notion-habit-tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-habit-tracker) [![hackclubnmit/certificate-generator](https://img.shields.io/static/v1?label=&message=certificate-generator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hackclubnmit/certificate-generator) [![todo-cli](https://img.shields.io/static/v1?label=&message=todo-cli&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/todo-cli) [![option-chain-notifier](https://img.shields.io/static/v1?label=&message=option-chain-notifier&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/option-chain-notifier) |
-| [![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://www.gnu.org/) | [![projray_airbnb](https://img.shields.io/static/v1?label=&message=projray_airbnb&color=000605&logo=gitlab&logoColor=FFFFFF&labelColor=000605)](https://gitlab.com/rayelisson/projray_airbnb) |
-| [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://nodejs.org/en/) | [![speaking-geo-assistant-backend](https://img.shields.io/static/v1?label=&message=speaking-geo-assistant-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/speaking-geo-assistant-backend) [![dietary-care](https://img.shields.io/static/v1?label=&message=dietary-care&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dietary-care) |
-| [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF)](https://fastapi.tiangolo.com/) | [![fast_ray_ap](https://img.shields.io/static/v1?label=&message=fast_ray_ap&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/rayelissonl/fast_ray_ap) [![strategical-trading](https://img.shields.io/static/v1?label=&message=strategical-trading%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/strategical-trading) |
-| [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/) | [![bitgrit-personality-api](https://img.shields.io/static/v1?label=&message=bitgrit-personality-api&color=000605&logo=gitlab&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/bitgrit-personality-api) [![tradingview-discord-middleware](https://img.shields.io/static/v1?label=&message=tradingview-discord-middleware&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/tradingview-discord-middleware) |
-| [![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=FFFFFF)](https://www.djangoproject.com/) | [![todo-list-battle](https://img.shields.io/static/v1?label=&message=todo-list-battle%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/todo-list-battle) |
-|  [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![projray_airbnb](https://img.shields.io/static/v1?label=&message=projray_airbnb&color=000605&logo=gitlab&logoColor=FFFFFF&labelColor=000605)](https://gitlab.com/rayelisson/projray_airbnb) |
-| [![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)](https://nodejs.org/en/) | [![full_stack_nestjs_react_amzry](https://img.shields.io/static/v1?label=&message=full_stack_nestjs_react_amzry&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Rayelisson/full_stack_nestjs_react_amzry) [![dietary-care](https://img.shields.io/static/v1?label=&message=dietary-care&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dietary-care) |
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=FFFFFF)](https://javascript.info/) | [![wwf](https://img.shields.io/static/v1?label=&message=www&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/www) [![anuragsingh.dev](https://img.shields.io/static/v1?label=&message=anuragsingh.dev&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/anuragsingh.dev) [![unshorts](https://img.shields.io/static/v1?label=&message=unshorts&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/unshorts) |
-| [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
-| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/en/) | [![speaking-geo-assistant-backend](https://img.shields.io/static/v1?label=&message=speaking-geo-assistant-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/speaking-geo-assistant-backend) [![dietary-care](https://img.shields.io/static/v1?label=&message=dietary-care&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dietary-care) |
-| [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=docker&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
-| [![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
-| [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) ](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
-| [![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=Grafana) ](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
-| [![prometheus](https://img.shields.io/badge/prometheus-DA1F26?style=flat-square&logo=prometheus&logoColor=white) ](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
-| [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
-| [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
-| [![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) ](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
-| [![rabbitmq](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white) ](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
-| [![Problem solving](https://img.shields.io/static/v1?label=&message=Problem%20solving&color=FFA116&logo=LeetCode&logoColor=FFFFFF)](https://hackattic.com/u/ashleymavericks) | [![leetcoding](https://img.shields.io/static/v1?label=&message=leetcoding&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/leetcoding) [![hackerrank](https://img.shields.io/static/v1?label=&message=hackerrank&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/hackerrank) [![hackattic](https://img.shields.io/static/v1?label=&message=hackattic&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/hackattic) [![kata-log](https://img.shields.io/static/v1?label=&message=kata-log&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/kata-log) [![sadservers](https://img.shields.io/static/v1?label=&message=sadservers&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/sadservers) [![code.golf](https://img.shields.io/static/v1?label=&message=code.golf&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/code.golf) [![system-design](https://img.shields.io/static/v1?label=&message=system-design&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/system-design) |
--->
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
-<hr>
+- 🔍 Solicitação e análise de cotações.
+- 🧾 Elaboração e acompanhamento de pedidos de compra.
+- 🤝 Contato e negociação com fornecedores.
+- 💰 Análise de preços, custos e condições comerciais.
+- 📦 Acompanhamento de pedidos, entregas e materiais.
+- 🛠️ Contratação de serviços e aquisição de materiais técnicos.
+- 📊 Organização de informações para apoiar decisões de compra.
 
+## 💰 Financeiro e Controle Administrativo
 
+- 🧾 Acompanhamento e organização de contas a pagar.
+- 📥 Apoio ao controle de contas a receber.
+- 🔎 Conferência de documentos e informações financeiras.
+- 📊 Acompanhamento de despesas e custos operacionais.
+- 📑 Organização de informações para controles e relatórios gerenciais.
+- 💳 Apoio às rotinas financeiras e administrativas da operação.
 
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-<!--
+## 🤖 Inteligência Artificial e Automação
 
-| [![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://www.gnu.org/) | [![projray_airbnb](https://img.shields.io/static/v1?label=&message=projray_airbnb&color=000605&logo=gitlab&logoColor=FFFFFF&labelColor=000605)](https://gitlab.com/rayelisson/projray_airbnb) |
-| [![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://www.gnu.org/) | [![projray_airbnb](https://img.shields.io/static/v1?label=&message=projray_airbnb&color=000605&logo=gitlab&logoColor=FFFFFF&labelColor=000605)](https://gitlab.com/rayelisson/projray_airbnb) |
-| [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.gnu.org/) | [![projray_airbnb](https://img.shields.io/static/v1?label=&message=projray_airbnb&color=000605&logo=gitlab&logoColor=FFFFFF&labelColor=000605)](https://gitlab.com/rayelisson/projray_airbnb) |
-| [![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://www.gnu.org/) | [![projray_airbnb](https://img.shields.io/static/v1?label=&message=projray_airbnb&color=000605&logo=gitlab&logoColor=FFFFFF&labelColor=000605)](https://gitlab.com/rayelisson/projray_airbnb) |
-### 🧪 Data Science / ML
-| 💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
-| [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ](https://javascript.info/) | [![www](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=kaggle&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) [![anuragsingh.dev](https://img.shields.io/static/v1?label=&message=anuragsingh.dev&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/anuragsingh.dev) [![unshorts](https://img.shields.io/static/v1?label=&message=unshorts&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/unshorts) |
-| [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://nodejs.org/en/) | [![speaking-geo-assistant-backend](https://img.shields.io/static/v1?label=&message=speaking-geo-assistant-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/speaking-geo-assistant-backend) [![dietary-care](https://img.shields.io/static/v1?label=&message=dietary-care&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dietary-care) |
-| [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://nodejs.org/en/) | [![speaking-geo-assistant-backend](https://img.shields.io/static/v1?label=&message=speaking-geo-assistant-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/speaking-geo-assistant-backend) [![dietary-care](https://img.shields.io/static/v1?label=&message=dietary-care&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dietary-care) |
-| [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ](https://hackattic.com/u/ashleymavericks) | [![leetcoding](https://img.shields.io/static/v1?label=&message=leetcoding&color=000605&logo=powerbi&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/leetcoding) [![hackerrank](https://img.shields.io/static/v1?label=&message=hackerrank&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/hackerrank) [![hackattic](https://img.shields.io/static/v1?label=&message=hackattic&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/hackattic) [![kata-log](https://img.shields.io/static/v1?label=&message=kata-log&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/kata-log) [![sadservers](https://img.shields.io/static/v1?label=&message=sadservers&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/sadservers) [![code.golf](https://img.shields.io/static/v1?label=&message=code.golf&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/code.golf) [![system-design](https://img.shields.io/static/v1?label=&message=system-design&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/system-design) |
-| [![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://www.gnu.org/) | [![projray_airbnb](https://img.shields.io/static/v1?label=&message=projray_airbnb&color=000605&logo=gitlab&logoColor=FFFFFF&labelColor=000605)](https://gitlab.com/rayelisson/projray_airbnb) |
-| [![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://www.gnu.org/) | [![projray_airbnb](https://img.shields.io/static/v1?label=&message=projray_airbnb&color=000605&logo=gitlab&logoColor=FFFFFF&labelColor=000605)](https://gitlab.com/rayelisson/projray_airbnb) |
--->
+Utilizo ferramentas de inteligência artificial para apoiar atividades profissionais, estruturar informações, desenvolver documentos e buscar melhorias nos processos administrativos e operacionais.
 
-<hr>
+### 🧠 Claude
 
+- Elaboração e estruturação de propostas comerciais.
+- Desenvolvimento e organização de relatórios técnicos.
+- Estruturação de documentos e materiais profissionais.
+- Análise e organização de informações para atividades de trabalho.
+- Apoio à criação de conteúdos técnicos e administrativos.
 
-<h2 >⚡ Stats ⚡</h2>
-<br>
- <img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
- <img  height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayelissonl&theme=dark&layout=compact" />
- <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=rayelissonl&theme=dark&show_icons=true" />
-<hr>
+### 💬 ChatGPT
 
-     
+- Desenvolvimento de ideias e soluções para problemas profissionais.
+- Elaboração de e-mails corporativos e comunicações com fornecedores.
+- Organização de rotinas, processos e atividades.
+- Criação de modelos de documentos, relatórios e procedimentos.
+- Apoio à programação, aprendizagem e desenvolvimento de projetos.
+- Estruturação de fluxos de trabalho e instruções para automação.
 
-#### Social networks!
+### 🔄 Automação de processos
 
-<div  style="display: inline-block"> 
+- Desenvolvimento de ideias para automatizar tarefas repetitivas.
+- Integração de ferramentas e organização de fluxos de trabalho.
+- Estruturação de processos digitais para reduzir atividades manuais.
+- Aplicação de inteligência artificial como apoio à produtividade.
 
- <a href="https://www.linkedin.com/in/rayelisson-lima-74085162/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-      <a href="https://www.kaggle.com/rayelissonlima" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
-      
-</div>
+## 🧰 Ferramentas e tecnologias
+
+### 📋 Gestão, Operações e Produtividade
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp"/>
+  <img src="https://img.shields.io/badge/Omie-ERP-0066CC?style=for-the-badge" alt="Omie"/>
+  <img src="https://img.shields.io/badge/Make-Automation-6D36D6?style=for-the-badge&logo=make&logoColor=white" alt="Make"/>
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
+  <img src="https://img.shields.io/badge/RD_Station-CRM-FF6D00?style=for-the-badge" alt="RD Station"/>
+</p>
+
+### 🧠 Inteligência Artificial
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+</p>
+
+### 💻 Desenvolvimento Back-End
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"/>
+</p>
+
+### 🗄️ Bancos de Dados e Infraestrutura
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+*As tecnologias de desenvolvimento representam estudos e projetos pessoais, conforme o estágio de aprendizado de cada ferramenta.*
+
+## 📂 Projetos e estudos
+
+### ⚙️ Engenharia, Gestão e Processos
+
+Espaço dedicado ao desenvolvimento de estudos, modelos de documentos, indicadores de manutenção, organização operacional e soluções para melhoria de processos.
+
+### 🤖 Automação e Inteligência Artificial
+
+Estudos e projetos voltados à integração de ferramentas, automação de tarefas, organização de informações e aplicação de inteligência artificial em atividades profissionais.
+
+### 💻 Desenvolvimento Back-End
+
+Projetos e estudos envolvendo APIs, linguagens de programação, bancos de dados, arquitetura de sistemas e desenvolvimento de aplicações.
+
+| Projeto | Tecnologias |
+|---|---|
+| [API REST com Go e Gin](https://github.com/Rayelisson/api-rest-go-gin-ray) | Go, Gin, PostgreSQL |
+| [Service Desk API](https://github.com/rayelissonl/service-desk-api-1) | Node.js, TypeScript, NestJS |
+| [Projeto com Elixir e Phoenix](https://github.com/rayelissonl/webelixirpri) | Elixir, Phoenix |
+
+## 📚 Aprendizado contínuo
+
+Atualmente, meus interesses de desenvolvimento profissional estão relacionados a:
+
+- ⚙️ Engenharia Mecânica aplicada à manutenção industrial.
+- 📊 Administração, gestão financeira e controle de operações.
+- 📈 Indicadores de desempenho e análise de dados.
+- 🤖 Inteligência artificial aplicada a processos empresariais.
+- 🔄 Automação de tarefas e integração de ferramentas.
+- 💻 Desenvolvimento Back-End e construção de APIs.
+
+## 🎯 Objetivo profissional
+
+Integrar Engenharia Mecânica, Administração e Tecnologia para estruturar processos, melhorar controles operacionais, desenvolver soluções de automação e contribuir para decisões empresariais baseadas em informações confiáveis.
+
+Busco evoluir continuamente na interseção entre conhecimento técnico, gestão de negócios e inovação tecnológica.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rayelisson&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayelisson&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais utilizadas"/>
+</p>
+
+---
+
+## 🤝 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rayelisson-lima-74085162/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rayelissonl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Entrar_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Engenharia, gestão e tecnologia aplicadas à melhoria contínua.</i>
+</p>
